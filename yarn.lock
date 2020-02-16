@@ -3578,6 +3578,13 @@ leaflet-spin@1.1.0:
   dependencies:
     spin.js "^2.3.1"
 
+leaflet-spin@1.1.2:
+  version "1.1.2"
+  resolved "https://registry.yarnpkg.com/leaflet-spin/-/leaflet-spin-1.1.2.tgz#d77f93d9a6ce70a62f33bc367b1e16e8356d22b2"
+  integrity sha512-OLpeDrrAv1YY8NVSnOP0YfICFFm+IFauL77erXH87ZiTIXl3aPwUJXOd336DrQCe4aFsY+F3oG/1+aXyjqKV2w==
+  dependencies:
+    spin.js "^2.3.1"
+
 leaflet.blurred-location-display@^1.1.0:
   version "1.1.0"
   resolved "https://registry.yarnpkg.com/leaflet.blurred-location-display/-/leaflet.blurred-location-display-1.1.0.tgz#43b95549ecb2e5051cbef5a4ed7dbdb91ff6dd42"
